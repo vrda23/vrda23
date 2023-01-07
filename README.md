@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vrda23
 - 👀 I’m interested in data science, data analysis.
 - 🌱 I’m building ML/AI models for healthcare.
-- 💞️ I’m looking to collaborate on data science competitions.
 - 📫 How to reach me j.vrdoljak9@gmail.com
 
 <!---
