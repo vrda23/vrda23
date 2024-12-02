@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Josip Vrdoljak MD, PhD
+- Daily work on GitLab acc: https://gitlab.com/Vrda
 - I am also finishing a degree in AI (International University of Applied Sciences, Berlin).
 - 👀 I’m interested in AI-related research and applications in medicine/healthcare.
 - 🤖 (https://www.kaggle.com/josipvrdoljak)
